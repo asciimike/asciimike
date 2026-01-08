@@ -1,4 +1,4 @@
-Hey folks! My name is Mike McDonald (he/him), and I'm a PM [@CrusoeCloud](https://github.com/crusoecloud). I've worked previously [@GitHub](https://github.com/github) on Dependabot and Codespaces, [@Stedi](https://github.com/stedi), [@covid-projections](https://github.com/covid-projections), [@Google](https://github.com/google), and [@Firebase](https://github.com/firebase).
+Hey folks! My name is Mike McDonald (he/him), and I run product and engineering [@Fluidstack](https://github.com/fluidstackio). I've worked previously [@CrusoeCloud](https://github.com/crusoecloud) building climate aligned AI infra, [@GitHub](https://github.com/github) on Dependabot and Codespaces, [@Stedi](https://github.com/stedi), [@covid-projections](https://github.com/covid-projections), [@Google](https://github.com/google), and [@Firebase](https://github.com/firebase).
 
 Here are some fun side projects I've worked on:
  - [How Delayed is SFO](https://howdelayed.is/sfo) (or [its NSFW cousin](https://howfucked.is/sfo))
